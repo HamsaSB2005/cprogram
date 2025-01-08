@@ -11,3 +11,19 @@ Main Function
 Statements
 Control Structures
 
+1. Basic Data Types
+These are the fundamental data types in C:
+
+int: Used to store integers.
+
+Example: int age = 25;
+Variants: short int, long int, unsigned int
+float: Used to store single-precision floating-point numbers.
+
+Example: float pi = 3.14;
+double: Used to store double-precision floating-point numbers.
+
+Example: double pi = 3.14159265359;
+char: Used to store a single character.
+
+Example: char grade = 'A';
